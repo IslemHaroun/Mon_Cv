@@ -16,7 +16,7 @@
 <h1 style="text-align:center;">Merci ! votre message à bien été envoyé&nbsp;&nbsp;<i class="EnvoiR fas fa-check-circle"></i> </h1>
 <p class="text-center"><a class="backpage" href="index.php">Revenir à la page précédente</a></p>
 
-
+<input type="hidden" value="">
 </div>
 
 <hr class="container mt-5">
